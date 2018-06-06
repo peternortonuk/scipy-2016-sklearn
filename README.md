@@ -6,13 +6,14 @@ Based on the SciPy [2015 tutorial](https://github.com/amueller/scipy_2015_sklear
 
 ================================
 ## conda environment
-`conda create --name machine`  
-`conda install python=3.6`  
-`conda install numpy pandas matplotlib pillow scikit-learn -c defaults`  
-`conda config --add channels conda-forge`  
-`conda install watermark`  
-`conda install pyyaml ipython`
-`conda install scipy`
+```conda create --name machine  
+conda install python=3.6  
+conda install numpy pandas matplotlib pillow scikit-learn -c defaults  
+conda config --add channels conda-forge  
+conda install watermark  
+conda install pyyaml ipython
+conda install scipy
+```
 ================================
 
 

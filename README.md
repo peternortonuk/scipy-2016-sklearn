@@ -4,6 +4,18 @@ SciPy 2016 Scikit-learn Tutorial
 Based on the SciPy [2015 tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) by [Kyle Kastner](https://kastnerkyle.github.io/) and [Andreas Mueller](http://amueller.github.io).
 
 
+================================
+## conda environment
+`conda create --name machine`  
+`conda install python=3.6`  
+`conda install numpy pandas matplotlib pillow scikit-learn -c defaults`  
+`conda config --add channels conda-forge`  
+`conda install watermark`  
+`conda install pyyaml ipython`
+`conda install scipy`
+================================
+
+
 Instructors
 -----------
 

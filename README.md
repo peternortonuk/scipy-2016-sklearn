@@ -6,7 +6,8 @@ Based on the SciPy [2015 tutorial](https://github.com/amueller/scipy_2015_sklear
 
 ================================
 ## conda environment
-```conda create --name machine  
+```
+conda create --name machine  
 conda install python=3.6  
 conda install numpy pandas matplotlib pillow scikit-learn pyyaml ipython scipy jupyter -c defaults  
 conda config --add channels conda-forge  

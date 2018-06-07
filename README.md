@@ -13,6 +13,10 @@ conda install numpy pandas matplotlib pillow scikit-learn pyyaml ipython scipy j
 conda config --add channels conda-forge  
 conda install watermark  
 ```
+then start notebooks with
+```
+jupyter notebook --notebook-dir "C:\dev\code\scipy-2016-sklearn\notebooks"
+```
 ================================
 
 

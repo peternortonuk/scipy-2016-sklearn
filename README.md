@@ -17,8 +17,8 @@ may need to override condarc with
 ```
 conda install scikit-learn -c defaults --override-channels
 ```
-ImportError: cannot import name 'imread'
-to resolve this issue
+ImportError: cannot import name 'imread'  
+to resolve this issue  
 https://github.com/amueller/mglearn/issues/2
 ```
 conda install -c conda-forge imageio

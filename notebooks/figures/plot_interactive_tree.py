@@ -6,7 +6,7 @@ from sklearn.tree import DecisionTreeClassifier
 
 from sklearn.externals.six import StringIO  # doctest: +SKIP
 from sklearn.tree import export_graphviz
-from scipy.misc import imread
+from imageio import imread
 from scipy import ndimage
 
 import re

@@ -17,6 +17,10 @@ may need to override condarc with
 ```
 conda install scikit-learn -c defaults --override-channels
 ```
+had to do this
+```
+conda install -c conda-forge imageio
+```
 then start notebooks with
 ```
 jupyter notebook --notebook-dir "C:\dev\code\scipy-2016-sklearn\notebooks"

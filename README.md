@@ -13,6 +13,16 @@ conda install numpy pandas matplotlib pillow scikit-learn pyyaml ipython scipy j
 conda config --add channels conda-forge  
 conda install watermark  
 ```
+these are the versions stated in the requirements text file  
+```
+conda install ipython>=3.2.0  
+conda install pyzmq>=14.7.0  
+conda install pillow>=2.9.0  
+conda install numpy>=1.9.2  
+conda install graphviz>=0.4.4  
+conda install pydot  
+conda install -c conda-forge imageio  
+```
 may need to override condarc with
 ```
 conda install scikit-learn -c defaults --override-channels

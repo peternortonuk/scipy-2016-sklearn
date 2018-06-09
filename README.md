@@ -35,7 +35,7 @@ conda install -c conda-forge imageio
 ```
 then start notebooks with
 ```
-jupyter notebook --notebook-dir "C:\dev\code\scipy-2016-sklearn\notebooks"
+jupyter notebook --notebook-dir "C:\dev\code\scipy-2016-sklearn"
 ```
 ================================
 
